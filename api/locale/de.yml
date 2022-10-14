@@ -1,0 +1,20 @@
+de:
+  views: "%{number} Ansichten"
+  seconds-ago:
+    one: "vor 1 Sekunde"
+    many: "vor %{count} Sekunden"
+  minutes-ago:
+    one: "vor 1 Minute"
+    many: "vor %{count} Minuten"
+  hours-ago:
+    one: "vor 1 Stunde"
+    many: "vor %{count} Stunden"
+  days-ago:
+    one: "vor 1 Tag"
+    many: "vor %{count} Tagen"
+  months-ago:
+    one: "vor 1 Monat"
+    many: "vor %{count} Monaten"
+  years-ago:
+    one: "vor 1 Jahr"
+    many: "vor %{count} Jahren"
